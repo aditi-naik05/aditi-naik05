@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Aditi 👋
 
-<!--
-**aditi-naik05/aditi-naik05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Git, GitHub, and Python  
+💻 Interested in software development and data analysis  
+🚀 Building projects step by step  
 
-Here are some ideas to get you started:
+### Skills
+- Git & GitHub
+- Python (beginner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Goals
+- Build real-world projects
+- Maintain clean and consistent GitHub repositories
+
+📫 Reach me: aditinaik120905@gmail.com
