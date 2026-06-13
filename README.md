@@ -6,7 +6,7 @@
 
 ### Skills
 - Git & GitHub
-- Python (beginner)
+- Python
 
 ### Goals
 - Build real-world projects
